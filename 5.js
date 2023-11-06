@@ -29,4 +29,4 @@ while (win == false) {
     }
 }
 
-console.log(secretNumber);
+console.log(secretNumber)
